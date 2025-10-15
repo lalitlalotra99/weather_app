@@ -72,3 +72,4 @@
         ☁ Weather: <b>${weather}</b>
       `;
     }
+
